@@ -1,0 +1,21 @@
+{
+  "name": "interp1d",
+  "version": "1.0.0",
+  "description": "1D function interpolation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "benchmark": "^2.1.4",
+    "benchtable": "^0.1.0",
+    "binary-search": "^1.3.6",
+    "binary-search-bounds": "^2.0.5",
+    "cubic-spline": "^3.0.3",
+    "interp1": "^1.0.18",
+    "polylinear-scale": "^1.1.6",
+    "splines": "^1.0.0"
+  }
+}
