@@ -1,0 +1,166 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewbox="0 0 40 10">
+ <g>
+ <rect fill="#abc" x="0" y="0" width="800" height="200" />
+ <path id="interp1_path" style="fill:none; stroke: #000; stroke-linecap:round; stroke-linejoin: round; stroke-width: 4;"
+   d="M59,149 L307,149M307,71 L364,71M364,126 L404,126M404,45 L518,45M518,52 L567,52M567,51 L649,51M649,127 L700,127M700,56 L740,56M740,90 L798,90M798,86 L1800,86"
+ >
+  <animate attributeName="d" dur="200ms" begin="t_5b.end; 0s" id="t_0a" fill="freeze"
+      to="M90,153 L175,153M175,76 L217,76M217,155 L261,155M261,70 L307,70M307,132 L364,132M364,47 L404,47M404,116 L507,116M507,66 L733,66M733,99 L790,99M790,131 L1800,131" />
+  <animate dur="800ms" begin="t_0a.end" id="t_0b" />
+  <animate attributeName="d" dur="200ms" begin="t_0b.end" id="t_1a" fill="freeze"
+      to="M68,71 L135,71M135,103 L177,103M177,147 L277,147M277,96 L341,96M341,82 L415,82M415,84 L501,84M501,54 L602,54M602,82 L673,82M673,106 L718,106M718,49 L1800,49" />
+  <animate dur="800ms" begin="t_1a.end" id="t_1b" />
+  <animate attributeName="d" dur="200ms" begin="t_1b.end" id="t_2a" fill="freeze"
+      to="M181,42 L266,42M266,51 L348,51M348,94 L399,94M399,104 L458,104M458,151 L507,151M507,155 L576,155M576,84 L663,84M663,136 L709,136M709,104 L763,104M763,111 L1800,111" />
+  <animate dur="800ms" begin="t_2a.end" id="t_2b" />
+  <animate attributeName="d" dur="200ms" begin="t_2b.end" id="t_3a" fill="freeze"
+      to="M51,76 L93,76M93,58 L164,58M164,126 L259,126M259,116 L379,116M379,110 L435,110M435,56 L488,56M488,72 L617,72M617,43 L710,43M710,45 L798,45M798,87 L1800,87" />
+  <animate dur="800ms" begin="t_3a.end" id="t_3b" />
+  <animate attributeName="d" dur="200ms" begin="t_3b.end" id="t_4a" fill="freeze"
+      to="M59,149 L307,149M307,71 L364,71M364,126 L404,126M404,45 L518,45M518,52 L567,52M567,51 L649,51M649,127 L700,127M700,56 L740,56M740,90 L798,90M798,86 L1800,86" />
+  <animate dur="800ms" begin="t_4a.end" id="t_4b" />
+  <animate attributeName="d" dur="200ms" begin="t_4b.end" id="t_5a" fill="freeze"
+      to="M41,136 L90,136M90,42 L175,42M175,127 L226,127M226,103 L295,103M295,107 L370,107M370,117 L582,117M582,43 L632,43M632,50 L677,50M677,59 L759,59M759,72 L1800,72" />
+  <animate dur="800ms" begin="t_5a.end" id="t_5b" />
+ </path>
+ <circle fill="#456" r="10" cx="41" cy="136">
+  <animate attributeName="cx" dur="200ms" begin="t_0a.begin" to="90" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_0a.begin" to="153" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_1a.begin" to="68" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_1a.begin" to="71" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_2a.begin" to="181" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_2a.begin" to="42" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_3a.begin" to="51" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_3a.begin" to="76" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_4a.begin" to="59" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_4a.begin" to="149" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_5a.begin" to="41" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_5a.begin" to="136" fill="freeze" />
+ </circle>
+ <circle fill="#456" r="10" cx="90" cy="42">
+  <animate attributeName="cx" dur="200ms" begin="t_0a.begin" to="175" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_0a.begin" to="76" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_1a.begin" to="135" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_1a.begin" to="103" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_2a.begin" to="266" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_2a.begin" to="51" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_3a.begin" to="93" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_3a.begin" to="58" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_4a.begin" to="307" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_4a.begin" to="71" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_5a.begin" to="90" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_5a.begin" to="42" fill="freeze" />
+ </circle>
+ <circle fill="#456" r="10" cx="175" cy="127">
+  <animate attributeName="cx" dur="200ms" begin="t_0a.begin" to="217" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_0a.begin" to="155" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_1a.begin" to="177" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_1a.begin" to="147" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_2a.begin" to="348" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_2a.begin" to="94" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_3a.begin" to="164" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_3a.begin" to="126" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_4a.begin" to="364" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_4a.begin" to="126" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_5a.begin" to="175" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_5a.begin" to="127" fill="freeze" />
+ </circle>
+ <circle fill="#456" r="10" cx="226" cy="103">
+  <animate attributeName="cx" dur="200ms" begin="t_0a.begin" to="261" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_0a.begin" to="70" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_1a.begin" to="277" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_1a.begin" to="96" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_2a.begin" to="399" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_2a.begin" to="104" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_3a.begin" to="259" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_3a.begin" to="116" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_4a.begin" to="404" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_4a.begin" to="45" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_5a.begin" to="226" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_5a.begin" to="103" fill="freeze" />
+ </circle>
+ <circle fill="#456" r="10" cx="295" cy="107">
+  <animate attributeName="cx" dur="200ms" begin="t_0a.begin" to="307" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_0a.begin" to="132" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_1a.begin" to="341" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_1a.begin" to="82" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_2a.begin" to="458" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_2a.begin" to="151" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_3a.begin" to="379" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_3a.begin" to="110" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_4a.begin" to="518" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_4a.begin" to="52" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_5a.begin" to="295" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_5a.begin" to="107" fill="freeze" />
+ </circle>
+ <circle fill="#456" r="10" cx="370" cy="117">
+  <animate attributeName="cx" dur="200ms" begin="t_0a.begin" to="364" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_0a.begin" to="47" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_1a.begin" to="415" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_1a.begin" to="84" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_2a.begin" to="507" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_2a.begin" to="155" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_3a.begin" to="435" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_3a.begin" to="56" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_4a.begin" to="567" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_4a.begin" to="51" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_5a.begin" to="370" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_5a.begin" to="117" fill="freeze" />
+ </circle>
+ <circle fill="#456" r="10" cx="582" cy="43">
+  <animate attributeName="cx" dur="200ms" begin="t_0a.begin" to="404" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_0a.begin" to="116" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_1a.begin" to="501" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_1a.begin" to="54" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_2a.begin" to="576" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_2a.begin" to="84" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_3a.begin" to="488" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_3a.begin" to="72" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_4a.begin" to="649" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_4a.begin" to="127" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_5a.begin" to="582" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_5a.begin" to="43" fill="freeze" />
+ </circle>
+ <circle fill="#456" r="10" cx="632" cy="50">
+  <animate attributeName="cx" dur="200ms" begin="t_0a.begin" to="507" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_0a.begin" to="66" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_1a.begin" to="602" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_1a.begin" to="82" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_2a.begin" to="663" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_2a.begin" to="136" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_3a.begin" to="617" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_3a.begin" to="43" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_4a.begin" to="700" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_4a.begin" to="56" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_5a.begin" to="632" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_5a.begin" to="50" fill="freeze" />
+ </circle>
+ <circle fill="#456" r="10" cx="677" cy="59">
+  <animate attributeName="cx" dur="200ms" begin="t_0a.begin" to="733" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_0a.begin" to="99" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_1a.begin" to="673" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_1a.begin" to="106" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_2a.begin" to="709" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_2a.begin" to="104" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_3a.begin" to="710" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_3a.begin" to="45" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_4a.begin" to="740" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_4a.begin" to="90" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_5a.begin" to="677" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_5a.begin" to="59" fill="freeze" />
+ </circle>
+ <circle fill="#456" r="10" cx="759" cy="72">
+  <animate attributeName="cx" dur="200ms" begin="t_0a.begin" to="790" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_0a.begin" to="131" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_1a.begin" to="718" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_1a.begin" to="49" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_2a.begin" to="763" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_2a.begin" to="111" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_3a.begin" to="798" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_3a.begin" to="87" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_4a.begin" to="798" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_4a.begin" to="86" fill="freeze" />
+  <animate attributeName="cx" dur="200ms" begin="t_5a.begin" to="759" fill="freeze" />
+  <animate attributeName="cy" dur="200ms" begin="t_5a.begin" to="72" fill="freeze" />
+ </circle>
+</g></svg>
